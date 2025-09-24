@@ -44,7 +44,8 @@ The dashboard helps businesses identify key customer groups, revenue drivers, an
 ---
 
 ## 📸 Dashboard Preview
-![Customer Dashboard](./screenshots/customer_dashboard.png)
+![Customer Dashboard](./screenshots2.png)
+
 
 ---
 
